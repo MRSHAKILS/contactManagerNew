@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Tim</first_name>
+	<last_name>Buchalka</last_name>
+	<phone_number>1234</phone_number>
+	<notes>my notes</notes>
+</contact>
+<contact>
+	<first_name>Uzumaki</first_name>
+	<last_name>Naruto</last_name>
+	<phone_number>9999999</phone_number>
+	<notes>I'll become Hokage</notes>
+</contact>
+<contact>
+	<first_name>Eren </first_name>
+	<last_name>Yeagar</last_name>
+	<phone_number>911</phone_number>
+	<notes>I am Free</notes>
+</contact>
+<contact>
+	<first_name>Saruto</first_name>
+	<last_name>Gojo</last_name>
+	<phone_number>6969</phone_number>
+	<notes>Jujutsu Kaisen</notes>
+</contact>
+</contacts>
