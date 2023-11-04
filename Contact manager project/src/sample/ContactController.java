@@ -4,9 +4,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import sample.datamodel.Contact;
 
-/**
- * Created by timbuchalka on 2/11/16.
- */
+
 public class ContactController {
 
     @FXML
